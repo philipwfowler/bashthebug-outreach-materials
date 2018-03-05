@@ -22,7 +22,7 @@ There are usually some BashTheBug stickers around - ask Philip Fowler.
 
 BashTheBug has a [blog](http://bashthebug.net). The posts will give you an idea of what has been happening and hopefully you'll find one with recent statistics. If you click the red button it takes you to the [project site](https://www.zooniverse.org/projects/mrniaboc/bash-the-bug) on the Zooniverse website. There you can click Learn More or Get Started and then start classifying. Whilst you can sign in as a user, you don't have to. 
 
-# Live statistics 
+## Live statistics 
 
 You can either look on, or if you can [here](https://stats.zooniverse.org/counts/classification/year?project_id=3063) you'll get a slightly cryptic bit of text like 
 
